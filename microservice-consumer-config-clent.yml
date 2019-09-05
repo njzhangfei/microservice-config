@@ -16,7 +16,7 @@ eureka:
   client:
     register-with-eureka: false
     service-url: 
-      defaultZone: http://zf9003.com:9003/eureka/,http://zf9002.com:9002/eureka/,http://zf9001.com:9001/eureka/
+      defaultZone: http://zf9003.com:9003/,http://zf9002.com:9002/,http://zf9001.com:9001/
 
 ---
 server: 
